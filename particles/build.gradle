@@ -38,9 +38,9 @@ android {
                     // You can then customize attributes of the publication as shown below.
                     groupId = 'com.suyash.crackers'
                     artifactId = 'final'
-                    version = '1.0'
+                    version = '2.0'
                 }
-                // Creates a Maven publication called “debug”.
+                /*// Creates a Maven publication called “debug”.
                 debug(MavenPublication) {
                     // Applies the component for the debug build variant.
                     from components.debug
@@ -48,7 +48,7 @@ android {
                     groupId = 'com.suyash.crackers'
                     artifactId = 'final-debug'
                     version = '1.0'
-                }
+                }*/
             }
         }
     }
