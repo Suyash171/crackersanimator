@@ -3,10 +3,8 @@ package com.suyash.crackers;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.view.View;
 
-import com.suyash.crackers.utils.ParticleSystem;
-import com.suyash.crackers.utils.modifiers.ScaleModifier;
+import com.suyash.particles.ParticleSystem;
 
 public class MainActivity extends AppCompatActivity {
 

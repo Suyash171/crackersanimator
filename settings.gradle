@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "crackers"
 include ':app'
+include ':particles'
