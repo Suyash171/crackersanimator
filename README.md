@@ -21,7 +21,7 @@ Add the following dependency to the build.gradle of your project
 
 	```javascript
 	dependencies {
-	        implementation 'com.github.Suyash171:crackersanimator:Tag'
+	        implementation 'com.github.Suyash171:crackersanimator:2.1'
 	}
   
 
